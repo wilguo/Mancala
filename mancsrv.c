@@ -7,7 +7,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
-
+ 
 #define MAXNAME 80  /* maximum permitted name size, not including \0 */ //80
 #define NPITS 6  /* number of pits on a side, not including the end pit */
 #define NPEBBLES 4 /* initial number of pebbles per pit */
